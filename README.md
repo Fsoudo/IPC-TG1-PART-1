@@ -37,7 +37,7 @@ O **EasyMed** é uma aplicação Android que auxilia pacientes na gestão da tom
 | # | Secção | Valor | Estado |
 |---|--------|-------|--------|
 | 1 | Ferramentas e Organização da Equipa | 2 | 🟡 Em curso |
-| 2 | Participação em Eventos de Informática | 1 | 🟡 Presença confirmada, registo por escrever |
+| 2 | Participação em Eventos de Informática | 1 | ✅ Presença confirmada, registo ✅|
 | 3 | Sistemas Semelhantes | 2 | ✅ Concluído |
 | 4 | Caracterização dos Utilizadores (Personas) | 2 | ✅ Concluído |
 | 5 | Cenários de Utilização | 2 | ✅ Concluído |
