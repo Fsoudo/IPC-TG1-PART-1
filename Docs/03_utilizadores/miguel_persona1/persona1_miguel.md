@@ -6,7 +6,7 @@
 - **Idade:** 72 anos
 - **Profissão:** Reformado (ex-agricultor)
 - **Escolaridade:** 4ª classe
-- **Localização:** Aldeia do Bispo, Beja
+- **Localização:** Albergaria dos Fusos, Beja
 - **Estado civil:** Viúvo, vive sozinho
 
 ## Experiência Tecnológica
